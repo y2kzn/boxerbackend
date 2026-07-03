@@ -1,0 +1,17 @@
+{
+  "name": "boxerbackend",
+  "version": "1.0.0",
+  "description": "Backend customizado para Stumble Guys com gerenciamento de torneios, nicks e bans",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "y2kzn",
+  "license": "ISC"
+}
